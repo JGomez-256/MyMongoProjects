@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "682552c2f65f10c9be7e548a"
+  },
+  "nombre": "Ana",
+  "ciudad": "Lima",
+  "edad": 28,
+  "correo": "ana@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682552c2f65f10c9be7e548b"
+  },
+  "nombre": "Carlos",
+  "ciudad": "Bogotá",
+  "edad": 34,
+  "correo": "carlos@yahoo.com"
+},
+{
+  "_id": {
+    "$oid": "682552c2f65f10c9be7e548c"
+  },
+  "nombre": "Maria",
+  "ciudad": "Lima",
+  "edad": 22,
+  "correo": "maria@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "682552c2f65f10c9be7e548d"
+  },
+  "nombre": "José",
+  "ciudad": "Quito",
+  "edad": 40,
+  "correo": "jose@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682552c2f65f10c9be7e548e"
+  },
+  "nombre": "Lucía",
+  "ciudad": "Bogotá",
+  "edad": 19,
+  "correo": "lucia@outlook.com"
+},
+{
+  "_id": {
+    "$oid": "682552c2f65f10c9be7e548f"
+  },
+  "nombre": "Pedro",
+  "ciudad": "Lima",
+  "edad": 35,
+  "correo": "pedro@gmail.com"
+}]

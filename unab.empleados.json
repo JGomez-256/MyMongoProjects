@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "682d3c599db9549fcd09b84d"
+  },
+  "nombre": "Karen Villalobos",
+  "edad": 30,
+  "ciudad": "paris",
+  "correo": "karena@unab.com",
+  "cargo": "Analista de BD",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d3c599db9549fcd09b84e"
+  },
+  "nombre": "Josefino Peralta",
+  "edad": 32,
+  "ciudad": "Marsella",
+  "correo": "josefino@unab.com",
+  "cargo": "Programador",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d3c599db9549fcd09b84f"
+  },
+  "nombre": "lorena Mendez",
+  "edad": 34,
+  "ciudad": "Lyon",
+  "correo": "lorena@unab.com",
+  "cargo": "Desarrolladora Frontend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d3c599db9549fcd09b850"
+  },
+  "nombre": "Francisco Molina",
+  "edad": 35,
+  "ciudad": "Toulouse",
+  "correo": "francisco@unab.com",
+  "cargo": "Desarrollador de Bases de datos",
+  "departamento": "Infraestructura"
+},
+{
+  "_id": {
+    "$oid": "682d3c599db9549fcd09b851"
+  },
+  "nombre": "Porfirio Gimenes",
+  "edad": 28,
+  "ciudad": "Nantes",
+  "correo": "porfirio@unab.com",
+  "cargo": "Administracion en Redes",
+  "departamento": "Tecnologia"
+},
+{
+  "_id": {
+    "$oid": "682d3ec49db9549fcd09b852"
+  },
+  "nombre": "Gilberto Suárez",
+  "edad": 31,
+  "ciudad": "Burdeos",
+  "correo": "gilberto@unab.com",
+  "cargo": "Programador",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d3ec49db9549fcd09b853"
+  },
+  "nombre": "Reynaldo Sosa",
+  "edad": 28,
+  "ciudad": "Niza",
+  "correo": "reynaldo@unab.com",
+  "cargo": "Administrador de Bases de Datos",
+  "departamento": "Infraestructura"
+},
+{
+  "_id": {
+    "$oid": "682d3ec49db9549fcd09b854"
+  },
+  "nombre": "Julia Recinos",
+  "edad": 27,
+  "ciudad": "Lille",
+  "correo": "julia@unab.com",
+  "cargo": "Administradora Frontend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d3ec49db9549fcd09b855"
+  },
+  "nombre": "Regina Fernandez",
+  "edad": 29,
+  "ciudad": "Biarritz",
+  "correo": "regina@unab.com",
+  "cargo": "Administración en Redes",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d3ec49db9549fcd09b856"
+  },
+  "nombre": "Armando Peñate",
+  "edad": 26,
+  "ciudad": "Burdeos",
+  "correo": "armando@unab.com",
+  "cargo": "Desarrollador de Bases de Datos",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d42ee9db9549fcd09b857"
+  },
+  "nombre": "Dinora Recinos",
+  "edad": 28,
+  "ciudad": "Madrid",
+  "correo": "dinora@unab.com",
+  "cargo": "Programadora",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d42ee9db9549fcd09b858"
+  },
+  "nombre": "Lena Mercedes",
+  "edad": 33,
+  "ciudad": "Zaragoza",
+  "correo": "lena@unab.com",
+  "cargo": "Desarrolladora de Base de Datos",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d42ee9db9549fcd09b859"
+  },
+  "nombre": "Célida Castro",
+  "edad": 31,
+  "ciudad": "Salamanca",
+  "correo": "celida@unab.com",
+  "cargo": "Desarrolladora Backend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d42ee9db9549fcd09b85a"
+  },
+  "nombre": "Elías Vásquez",
+  "edad": 31,
+  "ciudad": "Curicó",
+  "correo": "elias@unab.com",
+  "cargo": "Desarrollador Backend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d42ee9db9549fcd09b85b"
+  },
+  "nombre": "Víctor Mejía",
+  "edad": 27,
+  "ciudad": "Lima",
+  "correo": "victorm@unab.com",
+  "cargo": "Desarrollador de Big Data",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d42ee9db9549fcd09b85c"
+  },
+  "nombre": "Arnoldo Sánchez",
+  "edad": 28,
+  "ciudad": "Bogotá",
+  "correo": "arnoldo@unab.com",
+  "cargo": "Desarrollador de Big Data",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d42ee9db9549fcd09b85d"
+  },
+  "nombre": "Vilma Merino",
+  "edad": 27,
+  "ciudad": "Buenos Aires",
+  "correo": "vilma@unab.com",
+  "cargo": "Desarrolladora Web",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d43e09db9549fcd09b85e"
+  },
+  "nombre": "Ramón Guzmán",
+  "edad": 28,
+  "ciudad": "Jalisco",
+  "correo": "ramon@unab.com",
+  "cargo": "Analista de Datos",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d43e09db9549fcd09b85f"
+  },
+  "nombre": "Gustavo Bermúdez",
+  "edad": 31,
+  "ciudad": "Tijuana",
+  "correo": "gustavo@unab.com",
+  "cargo": "Gerente de Ventas",
+  "departamento": "Administración de Empresas"
+},
+{
+  "_id": {
+    "$oid": "682d43e09db9549fcd09b860"
+  },
+  "nombre": "Filomena Gálvez",
+  "edad": 30,
+  "ciudad": "Salamanca",
+  "correo": "filomena@unab.com",
+  "cargo": "Desarrolladora Frontend",
+  "departamento": "Tecnología"
+}]

@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a12"
+  },
+  "nombre": "Ana",
+  "ciudad": "Los Angeles",
+  "edad": 30,
+  "correo": "ana@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a13"
+  },
+  "nombre": "Carlos",
+  "ciudad": "Hong Kong",
+  "edad": 38,
+  "correo": "carlos@yahoo.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a14"
+  },
+  "nombre": "María",
+  "ciudad": "Londres",
+  "edad": 21,
+  "correo": "maria@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a15"
+  },
+  "nombre": "José",
+  "ciudad": "Nueva York",
+  "edad": 49,
+  "correo": "jose@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a16"
+  },
+  "nombre": "Lucía",
+  "ciudad": "Shanghai",
+  "edad": 21,
+  "correo": "lucia@outlook.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a17"
+  },
+  "nombre": "Pedro",
+  "ciudad": "Boston",
+  "edad": 50,
+  "correo": "pedro@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a18"
+  },
+  "nombre": "Lucía",
+  "ciudad": "Chicago",
+  "edad": 25,
+  "correo": "lucia@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a19"
+  },
+  "nombre": "Juan",
+  "ciudad": "Pekin",
+  "edad": 37,
+  "correo": "juan@yahoo.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a1a"
+  },
+  "nombre": "Juana",
+  "ciudad": "Houston",
+  "edad": 25,
+  "correo": "juana@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a1b"
+  },
+  "nombre": "Manuel",
+  "ciudad": "Sidney",
+  "edad": 30,
+  "correo": "manuel@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a1c"
+  },
+  "nombre": "Dina",
+  "ciudad": "Tokio",
+  "edad": 39,
+  "correo": "dina@outlook.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a1d"
+  },
+  "nombre": "Noe",
+  "ciudad": "Paris",
+  "edad": 29,
+  "correo": "noe@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a1e"
+  },
+  "nombre": "Mirna",
+  "ciudad": "Singapur",
+  "edad": 55,
+  "correo": "mirna@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a1f"
+  },
+  "nombre": "Jesús",
+  "ciudad": "Amsterdam",
+  "edad": 24,
+  "correo": "jesus@yahoo.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a20"
+  },
+  "nombre": "Argelia",
+  "ciudad": "Seul",
+  "edad": 34,
+  "correo": "argelia@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a21"
+  },
+  "nombre": "Josué",
+  "ciudad": "Berlin",
+  "edad": 30,
+  "correo": "josue@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a22"
+  },
+  "nombre": "Alejandra",
+  "ciudad": "Hong Kong",
+  "edad": 39,
+  "correo": "alejandra@outlook.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a23"
+  },
+  "nombre": "Noemí",
+  "ciudad": "Liverpool",
+  "edad": 46,
+  "correo": "noemi@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a24"
+  },
+  "nombre": "Gabriela",
+  "ciudad": "Roma",
+  "edad": 58,
+  "correo": "gabriela@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a25"
+  },
+  "nombre": "Gerson",
+  "ciudad": "Oporto",
+  "edad": 36,
+  "correo": "gerson@yahoo.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a26"
+  },
+  "nombre": "Víctor",
+  "ciudad": "Madrid",
+  "edad": 19,
+  "correo": "victor@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a27"
+  },
+  "nombre": "Pablo",
+  "ciudad": "Mexico",
+  "edad": 40,
+  "correo": "pablo@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a28"
+  },
+  "nombre": "Catalina",
+  "ciudad": "Munbai",
+  "edad": 23,
+  "correo": "catalina@outlook.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a29"
+  },
+  "nombre": "Moisés",
+  "ciudad": "Dhaka",
+  "edad": 35,
+  "correo": "moises@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a2a"
+  },
+  "nombre": "Ana",
+  "ciudad": "Beijing",
+  "edad": 28,
+  "correo": "ana@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a2b"
+  },
+  "nombre": "Carlos",
+  "ciudad": "Rio de Janeiro",
+  "edad": 34,
+  "correo": "carlos@yahoo.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a2c"
+  },
+  "nombre": "María",
+  "ciudad": "Buenos Aires",
+  "edad": 22,
+  "correo": "maria@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a2d"
+  },
+  "nombre": "José",
+  "ciudad": "Monterrey",
+  "edad": 40,
+  "correo": "jose@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a2e"
+  },
+  "nombre": "Lucía",
+  "ciudad": "Sao Paulo",
+  "edad": 19,
+  "correo": "lucia@outlook.com"
+},
+{
+  "_id": {
+    "$oid": "682d3baf632ee6e4c6f57a2f"
+  },
+  "nombre": "Pedro",
+  "ciudad": "Guadalajara",
+  "edad": 35,
+  "correo": "pedro@gmail.com"
+}]
